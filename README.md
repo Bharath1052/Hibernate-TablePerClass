@@ -62,6 +62,7 @@ public class Main {
          //Your code to initialize Hibernate and perform operations
     }
 }
+```
 ## Usage
 
 This project includes basic CRUD operations using the Table-Per-Class strategy. You can extend the models and repository classes to fit your needs.
