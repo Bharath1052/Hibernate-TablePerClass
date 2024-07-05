@@ -1,1 +1,1 @@
-# Hibernate-SingleTable(Inheritance)
+# Hibernate-TablePerClass(Inheritance)
