@@ -16,7 +16,7 @@ This project demonstrates the use of the Table-Per-Class strategy in Hibernate. 
 
 Before you begin, ensure you have the following installed on your machine:
 
-- Java Development Kit (JDK) 8 or higher
+- Java Development Kit (JDK) 21
 - Maven
 - An SQL database (H2, MySQL, PostgreSQL, etc.)
 
